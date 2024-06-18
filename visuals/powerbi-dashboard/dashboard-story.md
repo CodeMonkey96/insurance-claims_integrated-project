@@ -1,6 +1,12 @@
 # Insurance Portfolio Analysis: Uncovering Trends and Opportunities
 ## This Power BI dashboard delves into our insurance portfolio, revealing key insights and potential areas for improvement. Let's explore the data:
 
+### Dashboard 1
+![Placeholder Image](https://github.com/CodeMonkey96/insurance-claims_integrated-project/blob/master/visuals/powerbi-dashboard/dashboard-part1.png)
+
+### Dashboard 2
+![Placeholder Image](https://github.com/CodeMonkey96/insurance-claims_integrated-project/blob/master/visuals/powerbi-dashboard/dashboard-part2.png)
+
 ### Overall Portfolio Health
 - We see a total of 996 active policies generating an annual premium revenue of R1.25M (Total Policies and Total Premiums cards).
 
